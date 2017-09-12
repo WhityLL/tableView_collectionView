@@ -2,9 +2,9 @@
 
 ## 前言
 
-仿造了美团外卖和礼物说，分别实现了两个 TableView 之间和 TablView 与 CollectionView 之间的联动效果，效果图看下面的 gif 图。先原 demo 下载链接，[【GitHub - OC 版】](https://github.com/leejayID/Linkage)、[【GitHub - Swift 版】](https://github.com/leejayID/Linkage-Swift)，配合 demo 一起看文章，效果会更佳。
+仿造了美团外卖和礼物说，分别实现了两个 TableView 之间和 TablView 与 CollectionView 之间的联动效果，效果图看下面的 gif 图。原作者 demo 下载链接，[【GitHub - OC 版】](https://github.com/leejayID/Linkage)、[【GitHub - Swift 版】](https://github.com/leejayID/Linkage-Swift)，配合 demo 一起看文章，效果会更佳。
 
-## 在其基础上加上了网易严选的效果 
+# 在其基础上加上了网易严选的效果 
 
 ![联动.gif](https://github.com/WhityLL/tableView_collectionView/blob/master/tableView%E8%81%94%E5%8A%A8.gif)
 
