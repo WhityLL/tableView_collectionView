@@ -6,7 +6,7 @@
 
 ## 在其基础上加上了网易严选的效果 
 
-![联动.gif](tableView_collectionView/tableView联动.gif)
+![联动.gif](https://github.com/WhityLL/tableView_collectionView/blob/master/tableView%E8%81%94%E5%8A%A8.gif)
 
 ## 最后
 
