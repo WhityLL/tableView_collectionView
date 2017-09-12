@@ -6,7 +6,7 @@
 
 ## 在其基础上加上了网易严选的效果 
 
-![联动.gif](http://upload-images.jianshu.io/upload_images/1321491-c9c4ca5f36d38ff0.gif?imageMogr2/auto-orient/strip)
+![联动.gif]tableView_collectionView/tableView联动.gif)
 
 ## 最后
 
